@@ -170,6 +170,10 @@ ul {
   background-color: var(--secondary-color);
 }
 
+.address {
+  font-style: normal;
+}
+
 .nav-link-logo.footer {
   color: var(--primary-white-color);
   font-family: Raleway;
